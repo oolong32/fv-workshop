@@ -1,40 +1,34 @@
-Erster Upload, Workshop beschrieb (in Arbeit)# Workshop: Recherche, Zusammenarbeit und Publikation im Web
-
 ## Zeitaufand Planung, Vorbereitung, Durchführung
 
-(grobe Schätzung)
-
-- Konzeption: 6h
-- Online Dokumentation: 8h
+- Konzeption:
+- Online Dokumentation:
 - Handout für Teilnehmer
-    - Handout Markup 4h
+    - Handout Markup
         - Syntax
         - Beispiele
         - weiterführende Information
-    - Handout Github 6h
+    - Handout Github
         - Übersicht
         - Funktionen
         - weiterführende Information
 - Planung Workshop
     - Input
-        - Recherche Themen 8h
-        - Ablauf/Zeitplan 2h
-        - Vorbereitung Keynote 2h
-        - Erstellen Keynote 6h
+        - Recherche Themen
+        - Ablauf/Zeitplan
+        - Vorbereitung Keynote
+        - Erstellen Keynote
     - Übungsteil 
-        - Definieren d. zu vermittelnden Kompetenzen 4h
-        - Erarbeitung Übung (gemeinsame Arbeit an einem Text zu best. Thema) 6h
-        - Vorbereitung für Auswertung und Besprechung am Schluss 2h
-- Durchführung Workshop 6–8 Lektionen
+        - Definieren d. zu vermittelnden Kompetenzen
+        - Erarbeitung Übung (gemeinsame Arbeit an einem Text zu best.ema)
+        - Vorbereitung für Auswertung und Besprechung am Schluss
+- Durchführung Workshop, Dauer zu bestimmen (ein Tag oder besser zwei?)
 - Nachbearbeitung
-    - Dokumentieren der Erfahrung 6h
+    - Dokumentieren der Erfahrung
         - was war gut?
         - was ist zu verbessern?
-    - Nachbearbeitung Hand-Outs 8h
-    - Nachbearbeitung Online Dokumentation 6h
-- Dokumentation der gesamten Arbeit am Workshop: 20h
-
-~ 100 Stunden
+    - Nachbearbeitung Hand-Outs
+    - Nachbearbeitung Online Dokumentation
+- Dokumentation der gesamten Arbeit am Workshop
 
 ## Thema
 
