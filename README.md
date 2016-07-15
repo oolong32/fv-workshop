@@ -118,6 +118,7 @@ Als *Repository* wird die oberste Ebene eines Projekts bezeichnet.
 #### Merge
 #### Issues
 #### …
+#### Publikation Website statt Markdown-Dokument
 
 ## Links
 
