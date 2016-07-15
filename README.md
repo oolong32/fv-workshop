@@ -1,4 +1,4 @@
-# Workshop: Recherche, Zusammenarbeit und Publikation im Web
+Erster Upload, Workshop beschrieb (in Arbeit)# Workshop: Recherche, Zusammenarbeit und Publikation im Web
 
 ## Zeitaufand Planung, Vorbereitung, Durchführung
 
