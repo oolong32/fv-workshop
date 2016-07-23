@@ -95,7 +95,7 @@ Wir werden *Git* nicht näher betrachten, vollständigkeitshalber beschreibe ich
 
 Diese Teile des Quelltextes müssen laufend gerüft und angepasst werden. Im Verlauf eines Projektes tritt eine Vielzahl von Problemstellungen auf. Diese werden in der Regel in eine Reihe untergeordneter Probleme gegliedert, die der Reihe nach behandelt werden. Dadurch ergeben sich grundlegende, übergeordnete Fragen: Was geschieht, wenn man nach einer Reihe von Änderungen merkt, dass man sich unterwegs verrannt hat? Wie kommt man auf die letzte funktionierende Version zurück? Was, wenn in der Zwischenzeit andere Programmierer an den gleichen Dokumeten weitergearbeitet haben?
 
-*Git* ist eine Software, die Änderungen an Dateien aufzeichnet. Es ist zu jedem Zeitpunkt möglich, zu einer bestimmten Version zurückzukehren. Dazu lassen sich Projekte in verschiedene Zweige aufgliedern: Es können gleichzeitig komplett Verschiedene Versionen des Quelltexts existieren, die zu einem späteren Zeitpunkt wieder zusammengeführt werden können. *Git* ist gleichzeitig ein Werkzeug, das Ordnung herstellt, andererseits ist es eine Versicherung für den Fall, dass der Quelltext durch Fehlleistungen kaputt geht.
+*Git* ist eine Software, die Änderungen an Dateien aufzeichnet. Es ist zu jedem Zeitpunkt möglich, zu einer bestimmten Version zurückzukehren. Dazu lassen sich Projekte in verschiedene Zweige aufgliedern: Es können gleichzeitig komplett verschiedene Versionen des Quelltexts existieren, die zu einem späteren Zeitpunkt wieder zusammengeführt werden können. *Git* ist ein Werkzeug, das Ordnung herstellt, gleichzeitig ist es eine Versicherung für den Fall, dass der Quelltext durch Fehlleistungen Schaden nimmt.
 
 ### GitHub
 
