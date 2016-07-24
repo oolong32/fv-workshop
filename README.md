@@ -1,7 +1,7 @@
 ## Zeitaufand Planung, Vorbereitung, Durchführung
 
-- Konzeption:
-- Online Dokumentation:
+- Konzeption
+- Online Dokumentation
 - Handout für Teilnehmer
     - Handout Markup
         - Syntax
@@ -18,10 +18,10 @@
         - Vorbereitung Keynote
         - Erstellen Keynote
     - Übungsteil 
-        - Definieren d. zu vermittelnden Kompetenzen
-        - Erarbeitung Übung (gemeinsame Arbeit an einem Text zu best.ema)
+        - Definieren der zu vermittelnden Kompetenzen
+        - Erarbeitung Übung (gemeinsame Arbeit an einem Text zu bestimmtem Thema)
         - Vorbereitung für Auswertung und Besprechung am Schluss
-- Durchführung Workshop, Dauer zu bestimmen (ein Tag oder besser zwei?)
+- Durchführung Workshop, Dauer zu bestimmen (ein Tag oder zwei Tage)
 - Nachbearbeitung
     - Dokumentieren der Erfahrung
         - was war gut?
@@ -30,17 +30,17 @@
     - Nachbearbeitung Online Dokumentation
 - Dokumentation der gesamten Arbeit am Workshop
 
-## Thema
+## Einleitung
 
-Dozierende verbringen üblicherweise einen grossen Teil der Zeit, in der Sie Unterricht vorbereiten, mit dem Sammeln und Aufbereiten von Information. Zusammentragen von Texten, Bildern und Filmen, Erstellen von Listen mit Buchtiteln, Links und Adressen etc.
+Dozierende verbringen üblicherweise einen grossen Teil der Zeit, in der Sie ihren Unterricht vorbereiten, mit dem Sammeln und Aufbereiten von Information. Zusammentragen von Texten, Bildern und Filmen, Erstellen von Listen mit Buchtiteln, Links und Adressen etc.
 
-Arbeitet man in einem Team, muss die Information ausgetauscht werden. Es entstehen verschiedene Versionen der gleichen Datei an unterschiedlichen Orten, Textdateien werden in unterschiedliche Formate übertragen, als PDF exportiert etc.
+Arbeiten sie in einem Team, muss die Information ausgetauscht werden. Es entstehen verschiedene Versionen der gleichen Inhalte an unterschiedlichen Orten, Textdateien werden in andere Formate übertragen, als PDF exportiert etc.
 
-Dazu muss in der Regel ein Teil der Information Studenten, Mitarbeitern etc. zugänglich gemacht werden: Texte müssen in les- und überschaubare Form gebracht werden. Und dann stellt sich die Frage, in welcher Art und Weise die Information kommuniziert wird.
+Zuletzt müssen sie die aufbereitete Information Studenten, Mitarbeitern etc. zugänglich gemacht werden: Texte müssen in les- und überschaubare Form gebracht werden. Und dann stellt sich die Frage, in welcher Art und Weise die Information kommuniziert wird.
 
-Mit den üblicherweise bekannten und verbreiteten Mitteln gestaltet sich dieser Prozess nicht nur umständlich und zeitintensiv, er mündet meist auch in Publikationsformen, die für eine produktive Verwertung eher ungeeignet sind.
+Software, die dem Zweck gerade knapp genügt, ist kein Werkzeug, sonern wird zur Krücke: Man kommt nicht vorwärts. Das Durcheinander von Formaten und Versionen verlangsamt die Arbeit zusätzlich.
 
-Einige Beispiele:
+### Einige Beispiele
 
 * Information, die per E-Mail verschickt wurde, verschwindet in den Abgründen des elektronischen Posteingangs. Monate später sucht man nach Stichworten, an die man sich nur bruchstückhaft erinnert und muss sich durch Antworten auf Weiterleitungen kämpfen, bis man das ursprüngliche Mail mit intaktem Inhalt findet.
 * Text im PDF-Format kann nicht sauber kopiert und in ein neues Dokument eingefügt werden, weil z.B. Zeilenumbrüche zu harten Umbrüchen werden, die von Hand korrigiert werden müssen.
